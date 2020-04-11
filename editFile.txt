@@ -1,0 +1,12 @@
+#include <fstream>
+
+using namespace std;
+// Use ArrayQueue and Linked Stack
+string fileWord;
+ifstream infile;
+int stringSize;
+
+string Testcode = "Hello World";
+
+
+
